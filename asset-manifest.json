@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.90b8e3c5.js",
+    "static/js/453.fc3c42bd.chunk.js": "/static/js/453.fc3c42bd.chunk.js",
+    "static/media/umrah_pattern_render.mp4": "/static/media/umrah_pattern_render.3ad7ade316f89d03b6c6.mp4",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.90b8e3c5.js.map": "/static/js/main.90b8e3c5.js.map",
+    "453.fc3c42bd.chunk.js.map": "/static/js/453.fc3c42bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.90b8e3c5.js"
+  ]
+}
